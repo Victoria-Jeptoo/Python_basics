@@ -1,5 +1,7 @@
 .venv/
 .env
+*.txt
+*webm
 .idea
 secrets/mpesa
 #.gitignore
@@ -8,3 +10,6 @@ secrets/mpesa
 #git add .
 #git commit -m
 #git remote add origin
+
+#pip freeze  > requirements.txt
+#pip install -r requirements.txt
