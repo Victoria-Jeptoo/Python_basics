@@ -2,6 +2,7 @@
 .env
 *.txt
 *webm
+!requirements.txt
 .idea
 secrets/mpesa
 #.gitignore
