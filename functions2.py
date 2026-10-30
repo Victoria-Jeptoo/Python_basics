@@ -1,5 +1,5 @@
 
-def add(a, b, c):
+def add(a:int, b:int, c:int):
     res = a + b + c
     return res
 print(add(9, 7, 5))
